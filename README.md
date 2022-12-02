@@ -1,0 +1,2 @@
+- 👀 I’m interested in science
+- 🌱 I’m currently learning luau,lua,html,css,js,py,discord,php
