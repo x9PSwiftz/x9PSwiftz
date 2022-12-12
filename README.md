@@ -1,2 +1,2 @@
-- 👀 I’m interested in science
-- 🌱 I’m currently learning luau,lua,html,css,js,py,discord,php
+- พี่มัน NO.1 ว่ะน้อง 👑
+- อ่านเพื่อ
