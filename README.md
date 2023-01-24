@@ -4,12 +4,8 @@
 
 <img style="width:100%" src="https://cdn.discordapp.com/attachments/992767456714182686/1067442622429405194/support.png">
 
-<html>
-<body>
 <h1>วิธีการใช้งานเว็บไซต์</h1><br>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/sTonzrtklEI">
 </iframe>
-</body>
-</html>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x9PSwiftz&show_icons=true&theme=dark&locale=en" alt="x9PSwiftz" /></p>
