@@ -2,7 +2,7 @@
 <h3 align="center">- กำลังไต่ไปเป็น No.1 -</h3>
 
 
-<img style="width:100%" src="https://cdn.discordapp.com/attachments/992767456714182686/1067442418150027365/banner2.png">
+<img style="width:100%" src="https://cdn.discordapp.com/attachments/992767456714182686/1067442622429405194/support.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x9PSwiftz&label=Profile%20views&color=0e75b6&style=flat" alt="x9PSwiftz" /> </p>
 
